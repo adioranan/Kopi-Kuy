@@ -1,0 +1,71 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://aromarasa.com/wp-content/uploads/2021/04/cara-membuat-es-campur-spesial-enak-tanpa-ribet.jpg",
+            "nama": "Es Campur",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://www.sasa.co.id/medias/page_medias/es_cendol_nangka.jpg",
+            "nama": "Es Cendol",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "data:image/jpeg;base64,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",
+            "nama": "Es Doger",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ftruffle-assets.tastemadecontent.net%2Fn0tuaih9ywav_7fyT46ueJ2smY68CA68CgA_es-doger_landscapeThumbnailClean_id.png&tbnid=YIsFYmp56CXmtM&vet=12ahUKEwjHrbeega-AAxUHm2MGHQCBCvAQMygHegUIARD-AQ..i&imgrefurl=https%3A%2F%2Fid.tastemade.com%2Fvideos%2Fes-doger%2F&docid=tdybt7FB5Dp6EM&w=1920&h=1080&q=es%20doger&ved=2ahUKEwjHrbeega-AAxUHm2MGHQCBCvAQMygHegUIARD-AQ"
+        }
+    ]
+}
